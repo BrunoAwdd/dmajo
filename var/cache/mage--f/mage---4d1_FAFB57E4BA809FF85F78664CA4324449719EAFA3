@@ -1,0 +1,111 @@
+<div class="footer-social-container">
+    <div class="footer-social">
+        <div style="border-top: 1px solid #efefef; padding: 12px 0 0 0;">
+<p class="follow_us">Follow Us:</p>
+<p class="left"><a class="facebook" href=" http://feedburner.com">&nbsp;</a> <a class="twitter" href="http://twitter.com">&nbsp;</a> <a class="rss" href="http://www.facebook.com">&nbsp;</a></p>
+<div style="float: left; border-left: 1px solid #efefef; border-right: 1px solid #efefef; padding: 0 50px; margin: 0 0 0 100px;"><img alt="" src="http://127.0.0.1/loja/media/wysiwyg/blanco/gift.png" /></div>
+<div class="phone"><img alt="" src="http://127.0.0.1/loja/media/wysiwyg/blanco/telephone.png" /></div>
+</div>        <div class="clear"></div>
+    </div>
+</div>
+<div class="footer-container">
+    <div class="aditional-footer">
+                <div class="f-right">
+            <div class="footer-right">
+                <div class="right-conteiner">
+                    <form action="http://127.0.0.1/loja/newsletter/subscriber/new/?___SID=U" method="post" id="newsletter-validate-detail">
+    <div class="form-subscribe">
+    <div class="form-subscribe-header"><h4>Assine nossa newsletter</h4></div>
+        <div class="input-box">
+           <input type="text" name="email" id="newsletter" title="Assine nossa newsletter" class="input-text required-entry validate-email" />
+              
+            <button type="submit" title="Enviar" class="button"><span><span>Enviar</span></span></button>  
+        </div>  
+    </div>
+</form>
+<script type="text/javascript">
+//<![CDATA[
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    new Varien.searchForm('newsletter-validate-detail', 'newsletter', 'Informe seu email');
+//]]>
+</script>
+                    <div class="clear"></div>
+                </div>
+                <div class="right-conteiner">
+                    <h4 style="padding-top: 17px;"><span>Opening time:</span></h4>
+<address><span style="color: #888888; font-size: 11px;">Mon-Fri: .......................... 8.00 to 18.00</span></address><address><span style="color: #888888; font-size: 11px;">Sat: ................................ 9.00 to 18.00</span></address><address><span style="color: #888888; font-size: 11px;">Sun: ............................. 10.00 to 16.00</span></address>                                        
+                        <div id="message"><a href="#top" id="top-link">Voltar ao Topo</a></div> 
+                                        <div style="clear: both;"></div>
+                </div>                
+            </div>
+        </div>
+        
+        <div class="f-left footer-left">
+            <div class="shippingreturns">
+<div class="shippingpolicy" style="width: 140px; float: left;">
+<h4 style="font-weight: none !important;">Our Offers</h4>
+<ul class="policy">
+<li><a href="#">New products</a></li>
+<li><a href="#">Top sellers</a></li>
+<li><a href="#">Specials</a></li>
+<li><a href="#">Manufacturers</a></li>
+<li><a href="#">Suppliers</a></li>
+<li><a href="#">Specials</a></li>
+<li><a href="#">Service</a></li>
+</ul>
+</div>
+<div class="shippingpolicy" style="width: 150px; float: left;">
+<h4 style="font-weight: none !important;">Shipping Info</h4>
+<ul class="policy">
+<li><a href="#">Returns</a></li>
+<li><a href="#">Delivery</a></li>
+<li><a href="#">Service</a></li>
+<li><a href="#">Gift Cards</a></li>
+<li><a href="#">Mobile</a></li>
+<li><a href="#">Gift Cards</a></li>
+<li><a href="#">Manufacturers</a></li>
+</ul>
+</div>
+<div class="shippingpolicy" style="width: 150px; float: left;">
+<h4 style="font-weight: none !important;">Our Account</h4>
+<ul class="policy">
+<li><a href="#">Your Account</a></li>
+<li><a href="#">information</a></li>
+<li><a href="#">Addresses</a></li>
+<li><a href="#">Discount</a></li>
+<li><a href="#">Orders history</a></li>
+<li><a href="#">Addresses</a></li>
+<li><a href="#">Search Terms</a></li>
+</ul>
+</div>
+<div class="shippingpolicy" style="width: 150px; float: left;">
+<h4 style="font-weight: none !important;">Our Support</h4>
+<ul class="policy">
+<li><a href="#">Site Map</a></li>
+<li><a href="#">Search Terms</a></li>
+<li><a href="#">Advanced Search</a></li>
+<li><a href="#">Mobile</a></li>
+<li><a href="#">Contact Us</a></li>
+<li><a href="#">Mobile</a></li>
+<li><a href="#">Addresses</a></li>
+</ul>
+</div>
+</div>        </div>
+        <div style="clear: both;"></div>
+    </div>  
+</div>  
+    <div class="footer">
+                <div class="f-left">
+            <ul class="links">
+                        <li class="first" ><a href="http://127.0.0.1/loja/catalog/seo_sitemap/category/?___SID=U" title="Mapa do Site" >Mapa do Site</a></li>
+                                <li ><a href="http://127.0.0.1/loja/catalogsearch/term/popular/?___SID=U" title="Termos de Pesquisa" >Termos de Pesquisa</a></li>
+                                <li ><a href="http://127.0.0.1/loja/catalogsearch/advanced/?___SID=U" title="Busca Avançada" >Busca Avançada</a></li>
+                                <li ><a href="http://127.0.0.1/loja/sales/guest/form/?___SID=U" title="Pedidos e Devoluções" >Pedidos e Devoluções</a></li>
+                                <li class=" last" ><a href="http://127.0.0.1/loja/contacts/?___SID=U" title="Fale Conosco" >Fale Conosco</a></li>
+            </ul>
+<br />
+            &copy; 2016 D'Majo. Todos os direitos Reservados.&nbsp;&nbsp;
+                    </div>
+        <div class="f-right">
+            <div style="padding-top: 2px;"><img alt="paypal" src="http://127.0.0.1/loja/media/wysiwyg/blanco/paypal.png" />&nbsp;&nbsp; &nbsp;<img alt="discover" src="http://127.0.0.1/loja/media/wysiwyg/blanco/discover.png" />&nbsp; &nbsp;&nbsp;<img alt="visa_straight" src="http://127.0.0.1/loja/media/wysiwyg/blanco/visa_straight.png" />&nbsp; &nbsp;&nbsp;<img alt="aex" src="http://127.0.0.1/loja/media/wysiwyg/blanco/aex.png" />&nbsp; &nbsp;&nbsp;<img alt="mastercard" src="http://127.0.0.1/loja/media/wysiwyg/blanco/mastercard.png" />&nbsp;&nbsp; &nbsp;<img alt="maestro" src="http://127.0.0.1/loja/media/wysiwyg/blanco/maestro.png" /></div>        </div>
+    </div>
